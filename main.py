@@ -179,4 +179,4 @@ async def start_studying(ctx):
 
 
 bot.run(
-    'MTIwMDEwMzI0MzQ0ODA2NjA1OQ.G9fTjG.pO8nplmAIFiH8Ul0h8Fak3wjMLOtN9JsoGo1ws')
+    'BOT_TOKEN')
